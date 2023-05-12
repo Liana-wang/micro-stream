@@ -1,0 +1,14 @@
+# Dependency directory
+node_modules
+
+# tests directory
+tests
+
+# App packaged
+scripts
+
+# Package.json
+package.json
+
+
+src/**/*.d.ts

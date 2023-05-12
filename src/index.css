@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    font-family: 'Microsoft YaHei',
+        'Segoe UI',
+        'Roboto',
+        'Oxygen',
+        'Ubuntu',
+        'Cantarell',
+        'Fira Sans',
+        'Droid Sans',
+        'Helvetica Neue',
+        sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+        monospace;
+}
+
+input::-webkit-input-placeholder {
+    color: rgba(0, 0, 0, 0.4);
+    -webkit-text-fill-color: rgba(0, 0, 0, 0.4);
+}
+
+input::-moz-input-placeholder {
+    color: rgba(0, 0, 0, 0.4);
+    -webkit-text-fill-color: rgba(0, 0, 0, 0.4);
+}
+
+input::-ms-input-placeholder {
+    color: rgba(0, 0, 0, 0.4);
+    -webkit-text-fill-color: rgba(0, 0, 0, 0.4);
+}
